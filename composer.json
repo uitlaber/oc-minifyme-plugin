@@ -1,0 +1,15 @@
+{
+  "name": "uit/oc-minifyme-plugin",
+  "type": "october-plugin",
+  "description": "OctoberCMS plugin for demonstrating the use of Laravel Packages within October plugins",
+  "homepage": "https://github.com/LukeTowers/oc-laravelpackagesexample-plugin",
+  "authors": [
+    {
+      "name": "Dastan Turysbekov",
+      "email": "uitlaber@gmail.com"
+    }
+  ],
+  "require": {
+    "matthiasmullie/minify": "~1.3.61"
+  }
+}

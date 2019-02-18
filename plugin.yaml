@@ -1,0 +1,6 @@
+plugin:
+    name: 'uit.minifyme::lang.plugin.name'
+    description: 'uit.minifyme::lang.plugin.description'
+    author: Uit
+    icon: oc-icon-file-zip-o
+    homepage: ''
